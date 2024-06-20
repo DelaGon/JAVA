@@ -1,2 +1,2 @@
 # JAVA
-"Courses in Year 2, Semester 1
+"Courses in Year 2, Semester 1"
